@@ -1,0 +1,24 @@
+h1 {
+	font-family: verdana, sans-serif
+	   ;
+}
+
+body{
+background-image: url('img/GENOKRIMPET.png');
+background-size: cover;
+  background-attachment: fixed;
+}
+
+.col {
+display: inline-block;
+border: inset;
+margin-right: 400px;
+margin-left: 400px;
+margin-top: 20px;
+margin-bottom: 20px;
+text-decoration: none;
+color: #333;
+background-color: white;
+}
+
+

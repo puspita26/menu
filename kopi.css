@@ -1,0 +1,31 @@
+.jumbotron{
+  background-image: url('img/genok.png');
+  background-attachment: fixed;
+  color : white;
+  background-size: cover; 
+  background-position: 20px;
+  height: 800px;
+  padding-top: 5rem;
+  text-shadow: 600x;
+}
+section{
+	padding-top: 5rem;
+}
+
+
+#tempat{
+	background-image: url('img/via.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#akomodasi{
+	background-image: url('img/via.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#tentang {
+	grid-column-star: span 2;
+	grid-row-star: span2;
+}
